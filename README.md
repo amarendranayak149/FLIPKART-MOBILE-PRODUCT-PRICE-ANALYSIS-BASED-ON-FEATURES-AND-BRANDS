@@ -162,3 +162,11 @@ Finds the statistical correlation between **price and customer ratings**.
 This README provides an in-depth **technical and business overview** of the project, along with **all the DAX formulas used** in Power BI. 🚀
 ```
 🚀 Let me know if you need any modifications!
+![Inno_Project_PBI_315_327_329 - updated_page-0008](https://github.com/user-attachments/assets/c8571b58-628c-4388-98e0-0333db44e6b0)
+![Inno_Project_PBI_315_327_329 - updated_page-0007](https://github.com/user-attachments/assets/01eb45b8-53ea-41c4-bd08-f3ebeff41c52)
+![Inno_Project_PBI_315_327_329 - updated_page-0006](https://github.com/user-attachments/assets/df53b5a4-64d9-46a4-bd08-66c67e677a44)
+![Inno_Project_PBI_315_327_329 - updated_page-0005](https://github.com/user-attachments/assets/56586563-2707-43f9-8501-b306b7de85e2)
+![Inno_Project_PBI_315_327_329 - updated_page-0004](https://github.com/user-attachments/assets/a9dfe9ba-f27f-428f-8b59-79009eafb62a)
+![Inno_Project_PBI_315_327_329 - updated_page-0003](https://github.com/user-attachments/assets/e83875ae-f200-4216-bf0e-c9b83d6d5f19)
+![Inno_Project_PBI_315_327_329 - updated_page-0002](https://github.com/user-attachments/assets/b15ebacc-510e-48b2-b249-8592582cc37f)
+![Inno_Project_PBI_315_327_329 - updated_page-0001](https://github.com/user-attachments/assets/596c4442-14aa-43db-af7d-18f0d44056e8)
